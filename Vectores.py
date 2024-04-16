@@ -15,3 +15,6 @@ for value in eigenvalues:
 print("\nVectores propios:")
 for vector in eigenvectors.T:
     print(vector)
+    
+
+#ENLACE EXPLICACIÓN DE VALORES PROPIOS Y VECTORES PROPIOS EN ICG -> https://docs.google.com/document/d/18IANa2-H6eWNWCNhbeOolLb1W97TsgRyx98lZdZrdF0/edit 
